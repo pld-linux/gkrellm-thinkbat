@@ -13,7 +13,8 @@ Requires:	gkrellm >= 2.0
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-gkrellm-ThinkBat is meant as a replacement for the default battery meter in GKrellM.
+gkrellm-ThinkBat is meant as a replacement for the default battery
+meter in GKrellM.
 
 %description -l pl.UTF-8
 gkrellm-ThinkBat zastępuje standardowy monitor baterii w GKrellM.
